@@ -87,7 +87,7 @@ A partir del código HTML y CSS que se muestra, añadir los selectores CSS que f
 ## Ejercicio 4
 A partir del código HTML proporcionado, añadir las reglas CSS necesarias para que la página resultante tenga el mismo aspecto que el de la siguiente imagen:
 
-*Aspecto final de la página*
+### Aspecto final de la página
 ![Aspecto final de la página](images/e0201.png)
 
 A continuación se muestra el código HTML de la página sin estilos:
