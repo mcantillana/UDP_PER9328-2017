@@ -5,8 +5,8 @@ Utilizando el sistema de grillas, construya el siguiente layout
 
 ![ejercicio_1](images/Selecci_n_028.png "ejercicio_1") 
 
-* [1] [Guía de instalación de bootstrap3] (https://github.com/mcantillana/guias-bootstrap3)
-* [2] [Guía de sistema de grillas] (https://openwebinars.net/tutorial-bootstrap-3-sistema-grid/)
+* [1] (Guía de instalación de bootstrap3) [https://github.com/mcantillana/guias-bootstrap3]
+* [2] (Guía de sistema de grillas) [https://openwebinars.net/tutorial-bootstrap-3-sistema-grid/]
 
 ## Ejercicio 2
 Se pide construir el siguiente layout con bootstrap
