@@ -12,5 +12,5 @@
 * [Tarea-1](#) / Fecha Entrega: Jueves 18, Agosto 2017
 * [Tarea-2](https://docs.google.com/document/d/e/2PACX-1vTxtG80D4oqUWNoJWYwsUDtPqIu7I2NJwc_oqXZsUElUEiSqzMgn-NbJ_1v6eIBxurvPQR2bV4ukUx_/pub) / Fecha Entrega: Jueves 14, Septiembre 2017 
 
-## Material de Apoyo
+
 
