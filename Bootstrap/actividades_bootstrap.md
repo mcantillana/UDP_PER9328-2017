@@ -46,7 +46,7 @@ debes crear una nueva página web usando  Bootstrap3. El contenido aparecerá ce
 
 En la siguiente imagen se puede ver un esquema de la web a realizar:
 
-![ejercicio_5](images/exercise_responsive_1_3.jpg "ejercicio_5") 
+![ejercicio_5](images/exercise_responsive_1_3.png "ejercicio_5") 
 
 Como se puede ver en el esquema de la imagen la disposición de las columnas y la alineación de los textos variará dependiendo del tamaño de la pantalla. 
 
