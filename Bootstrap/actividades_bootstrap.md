@@ -55,3 +55,20 @@ Tienes que reproducir este comportamiento para que la apariencia de la web sea s
 Tener en cuenta lo siguiente: 
 * Siempre que sea posible se utilizarán las clases que provee Bootstrap.
 * Cuando no sea posible (por ejemplo para controlar la alineación de los textos y el cambio de color de fondo) debes definir una media query que lo haga.
+
+## Ejercicio 6
+
+Debe construir el siguiente layoout utilizando navbar con menú principal
+
+### Versión xs
+![ejercicio_6_xs](images/bootstrap_navbar_xs.png "ejercicio_6_xs") 
+### Versión xs (menú expandido)
+![ejercicio_6_xs](images/bootstrap_navbar_xs_hover.png "ejercicio_6_xs") 
+
+### Versión sm
+![ejercicio_6_xs](images/bootstrap_navbar_sm.png "ejercicio_6_xs") 
+
+### Versión md,lg
+![ejercicio_6_xs](images/bootstrap_navbar_lg.png "ejercicio_6_xs") 
+
+Las imagenes a utilizar las puedes descargar de  [Aquí](images/images.tar.gz)
