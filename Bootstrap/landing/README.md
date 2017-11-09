@@ -9,6 +9,8 @@ Como desafío vamos enseñar a construir el siguiente landing page
 
 Ya verás que con bootstrap no es complejo y podremos poner nuestros conocimientos en práctica, asi que manos a la obra!!.
 
+Las fotos las pueden descargar del siguiente [enlace](images.zip)
+
 ## Iniciando el proyecto
 
 Lo primero que debemos hacer es instalar bootstrap, para esto existen diferentes mecanismos de instalación, pero solo utilizaremos una de ellas, comencemos!
